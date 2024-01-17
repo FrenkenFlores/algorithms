@@ -1,0 +1,5 @@
+alphabit = input()
+step = int(input()) % len(alphabit)
+print(alphabit[step:] + alphabit[:step])
+print(alphabit)
+print(alphabit[-step:] + alphabit[:-step])
