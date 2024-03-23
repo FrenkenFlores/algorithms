@@ -1,0 +1,14 @@
+[
+    {
+        "world": "Monstrous world",
+        "dangers": "fear; ghosts"
+    },
+    {
+        "world": "Fake world",
+        "dangers": "ghosts"
+    },
+    {
+        "world": "Gloomy world",
+        "dangers": "horror"
+    }
+]
